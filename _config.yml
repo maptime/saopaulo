@@ -1,12 +1,12 @@
-baseurl: /starter
+baseurl: /saopaulo
 permalink: pretty
 future: true
 markdown: kramdown
 paginate: 5
-repo: starter
+repo: saopaulo
 github_org: maptime
 maptime:
-  chapter: Chapter name
+  chapter: MaptimeSP
   twitter: TwitterHandle
   #disqus: YOUR DISQUS USERNAME
 
