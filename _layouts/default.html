@@ -30,6 +30,8 @@
     <div class='fill-darken0 pad1y strong dark'>
       <div class='limiter'>
         <a href='http://maptime.io/'>maptime.io</a>
+        <span>|</span>
+        <a href='http://maptime.io/saopaulo/sobre/'>sobre MaptimeSP</a>
       </div>
     </div>
   </div>
@@ -42,8 +44,11 @@
           <div class='pin-right pad4x pad1y hide-mobile'>
             <span class='sprite marker'></span>
           </div>
-          <a href='https://twitter.com/{{site.maptime.twitter}}/' class='contain z1 fill-blue button'>
-            @{{site.maptime.twitter}} on Twitter
+          <!-- <a href='https://twitter.com/{{site.maptime.twitter}}/' class='contain z1 fill-blue button'>
+            Twitter
+          </a> -->
+          <a href='https://facebook.com/{{site.maptime.facebook}}/' class='contain z1 fill-blue button'>
+            Facebook
           </a>
         </div>
       </div>
@@ -53,32 +58,22 @@
     <div class='col12 clearfix'>
       <aside class='col3 fr space-bottom2 sidebar'>
         <div class='fill-purple strong dark round pad2 space-bottom2'>
-          <h3>The next {{site.maptime.chapter}} is:</h3>
+          <h3>O próximo {{site.maptime.chapter}} será em:</h3>
           <div id='rsvpdate'></div>
         </div>
 
-        <div class='hide-mobile'>
+        <!-- <div class='hide-mobile'>
           <div class='popup-group'>
-            <a href='https://github.com/{{site.github_org}}/{{site.repo}}/' class='col12 space-bottom2 button'>Watch these events</a>
-            <div class='popup popup-big keyline-all pad1 small round'>
-              <ol class='space-bottom1'>
-                <li>1. Click the <strong>Watch these events</strong> button.</li>
-                <li>2. Login to GitHub or signup for an account.</li>
-                <li>3. Click the <strong>Watch</strong> button on the repo.</li>
-              </ol>
-              <div class='center'>
-                <img src='{{site.baseurl}}/img/watchrepo.png' alt='Watch repo' />
-              </div>
-            </div>
+            <a href='https://github.com/{{site.github_org}}/{{site.repo}}/' class='col12 space-bottom2 button'>Acompanhe nossos eventos</a>
           </div>
 
           <div class='followers'></div>
           <div class='center'>
             <div class='pad0y space-bottom2'>
-              <a class='small' href='https://github.com/{{site.github_org}}/{{site.repo}}/watchers'>View all</a>
+              <a class='small' href='https://github.com/{{site.github_org}}/{{site.repo}}/watchers'>Ver todos</a>
             </div>
           </div>
-        </div>
+        </div> -->
       </aside>
 
       <div class='col8 margin2r prose content'>
@@ -89,7 +84,7 @@
 
   <footer class='fill-light pad2y'>
     <div class='limiter center small quiet'>
-      <p>This website is <a href='http://github.com/{{site.github_org}}/{{site.repo}}/'>open source</a> and you can improve it. Learn more about contributing <a href='https://guides.github.com/activities/forking/'>here</a>.</p>
+      <p>Esse site é <a href='http://github.com/{{site.github_org}}/{{site.repo}}/'>open source</a> e você pode ajudar a melhorá-lo. Aprenda mais sobre como contribuir <a href='https://guides.github.com/activities/forking/'>aqui</a>.</p>
    </div>
   </footer>
 
@@ -102,16 +97,15 @@
   '{% for item in site.categories.event %}'
     if (new Date('{{item.date}}').getTime() >= new Date().getTime()) {
       date = '{{item.date | date:"%Y/%-m/%-d"}}';
-      formatted = '{{item.date | date:"%A, %b %d %Y"}}';
+      formatted = '{{item.date | date:"%A, %d/%m/%Y"}}';
       link = '{{item.rsvp}}';
     }
   '{% endfor %}'
-
   if (date && new Date().getTime() <= new Date(date).getTime() + (24 * 60 * 60 * 1000)) {
     rsvp.innerHTML = '<h3>' + formatted + '</h3>' +
     '<a class="button fill-orange block" href=' + link + '>RSVP</a>';
   } else {
-    rsvp.innerHTML = '<h3>TBA</h3>';
+    rsvp.innerHTML = '<h3>Em elaboração</h3>';
   }
 </script>
 

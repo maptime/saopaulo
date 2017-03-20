@@ -1,5 +1,6 @@
 ---
 layout: default
+image:
 ---
 
 <!-- This loops through the paginated posts -->
@@ -12,7 +13,7 @@ layout: default
     {{item.content}}
     <div class='keyline-all round pad2 col12 clearfix'>
       <div class='col8 pad0y'>
-        Join us: <span class='quiet'>{{item.date | date:"%A, %b %d %Y"}}</span>
+        Junte-se a nós: <span class='quiet'>{{item.date | date:"%A, %d/%m/%Y"}}</span>
       </div>
       <div class='col4'>
         <a class='button fill-orange block' href='{{item.rsvp}}'>RSVP</a>
@@ -24,7 +25,7 @@ layout: default
     <h2><a href='{{site.baseurl}}{{item.url}}'>{{item.title}}</a></h2>
     {{item.content}}
     <div class='pad1y keyline-top'>
-      <strong class='quiet small block space-bottom1'>Posted {{item.date | date:"%b %d %Y"}} by {{item.author}}</strong>
+      <strong class='quiet small block space-bottom1'>Postado em {{item.date | date:"%d/%m/%Y"}} por {{item.author}}</strong>
     </div>
 
   {% endif %}
@@ -35,13 +36,12 @@ layout: default
 <div class='col12 center small strong space pad2y'>
   {% if paginator.previous_page %}
     {% if paginator.previous_page == 1 %}
-      <a href='{{site.baseurl}}/' class='button fill-blue icon left-arrow'>Newer</a>
+      <a href='{{site.baseurl}}/' class='button fill-blue icon left-arrow'>Mais recentes</a>
     {% else %}
-      <a href='{{site.baseurl}}/page{{ paginator.previous_page }}' class='button fill-blue icon left-arrow'>Newer</a>
+      <a href='{{site.baseurl}}/page{{ paginator.previous_page }}' class='button fill-blue icon left-arrow'>Mais recentes</a>
     {% endif %}
   {% endif %}
   {% if paginator.next_page %}
-    <a href='{{site.baseurl}}/page{{ paginator.next_page }}' class='button fill-blue rcon right-arrow'>Older</a>
+    <a href='{{site.baseurl}}/page{{ paginator.next_page }}' class='button fill-blue rcon right-arrow'>Mais antigos</a>
   {% endif %}
 </div>
-
