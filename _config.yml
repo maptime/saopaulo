@@ -5,6 +5,7 @@ markdown: kramdown
 paginate: 5
 repo: saopaulo
 github_org: maptime
+description: O Maptime é um ambiente aberto de aprendizado sobre mapeamento para todos os níveis de conhecimento, de iniciantes a especialistas.
 maptime:
   chapter: MaptimeSP
   twitter: maptimesp
