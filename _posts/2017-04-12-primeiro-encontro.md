@@ -10,11 +10,11 @@ image: img/2017-04-12/palestra-genero-imoveis-miguel-jacob.jpg
 Estamos prontos para nosso primeiro encontro do [MaptimeSP](http://maptime.io/saopaulo/sobre/)! Ele seguirá esse roteiro:
 
 - 18h-18h30: recepção
-- 18h30-19h: palestra com Miguel Jacob sobre posse de imóveis e gênero em SP
+- 18h30-19h: apresentação com Miguel Jacob sobre posse de imóveis e gênero em SP
 - 19h-19h30: debate
 - 19h30-20h30: comida e espaço para conversas informais (traga seu projeto!)
 
-### Sobre a palestra
+### Sobre a apresentação
 
 ![palestra-genero-imoveis-Miguel-Jacob](http://maptime.io/saopaulo/img/2017-04-12/palestra-genero-imoveis-miguel-jacob.jpg)
 
@@ -22,7 +22,7 @@ Miguel Jacob irá apresentar uma pesquisa na qual colaborou sobre posse de imóv
 
 ### Traga seu projeto
 
-Se tiver algum projeto que você está trabalhando, ou que gostaria de começar, traga para nossa conversa informal depois da palestra. Pode ser só uma ideia ou algo já em andamento. Você pode também trazer dúvidas sobre mapeamento e GIS para compartilhar com a gente.
+Se tiver algum projeto que você está trabalhando, ou que gostaria de começar, traga para nossa conversa informal depois da apresentação. Pode ser só uma ideia ou algo já em andamento. Você pode também trazer dúvidas sobre mapeamento e GIS para compartilhar com a gente.
 
 ### Local
 
