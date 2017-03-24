@@ -97,7 +97,7 @@
   '{% for item in site.categories.event %}'
     if (new Date('{{item.date}}').getTime() >= new Date().getTime()) {
       date = '{{item.date | date:"%Y/%-m/%-d"}}';
-      formatted = '{{item.date | date:"%A, %d/%m/%Y"}}';
+      formatted = '{{item.date | date:"%A, %d/%m/%Y"}}, {{item.time}}';
       link = '{{item.rsvp}}';
     }
   '{% endfor %}'
