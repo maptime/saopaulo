@@ -26,4 +26,4 @@ function githubWatchers() {
     });
 };
 
-$(githubWatchers);
+// $(githubWatchers);
