@@ -28,6 +28,8 @@ Se tiver algum projeto que você está trabalhando, ou que gostaria de começar,
 
 Espaço para o encontro gentilmente cedido pelo [MobiLab, Laboratório de Mobilidade Urbana da Prefeitura de São Paulo](http://mobilab.prefeitura.sp.gov.br/).
 
+Comida será generosamente doada por [CARTO](https://carto.com/).
+
 Rua Boa Vista, 136 (mezanino) - Centro, São Paulo - SP
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3072.1872511262673!2d-46.6346272239907!3d-23.546655678274703!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xda16f42804275b7d!2sMobiLab!5e0!3m2!1sen!2sbr!4v1490364180973" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
