@@ -3,7 +3,7 @@ layout: event
 category: event
 title: Visualizando dados sobre segurança viária.
 rsvp: https://www.eventbrite.com.br/e/encontro-maptimesp-visualizando-dados-sobre-seguranca-viaria-tickets-34262174085
-time: 19h-21h30
+time: 19h-21h
 image: img/2017-05-11/visualizando-seguranca-viaria.png
 ---
 
