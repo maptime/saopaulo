@@ -12,5 +12,6 @@ maptime:
   facebook: maptimesp
   #disqus: YOUR DISQUS USERNAME
 
-gems:
+plugins:
   - jekyll-feed
+  - jekyll-paginate
