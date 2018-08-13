@@ -6,9 +6,13 @@ rsvp: https://www.eventbrite.com.br/e/encontro-maptimesp-cartografias-brasileira
 time: 18h30-21h
 image: img/2018-08-15/bienal.png
 ---
-Nesta edição do Maptime SP, Chiara Scotoni e Rafael Marengoni, integrantes da equipe curatorial da exposição [Muros de Ar do Pavilhão Brasileiro](www.murosdear.org.br), vão apresentar os trabalhos cartográficos expostos no Pavilhão Brasileiro da Bienal de Veneza 2018. Eles vão contar sobre o processo do trabalho, seguido por uma conversa informal.
+Nesta edição do Maptime SP, os curadores Marcelo Maia Rosa e Sol Camacho, juntamente com Chiara Scotoni e Rafael Marengoni, integrantes da equipe curatorial da exposição [Muros de Ar do Pavilhão Brasileiro](www.murosdear.org.br), vão apresentar sobre a pesquisa de mapeamento e elaboração do material cartográfico exposto no Pavilhão Brasileiro da Bienal de Veneza 2018. Eles vão contar sobre o processo do trabalho, seguido por uma conversa informal.
 
 (Imagem cortesia do Pavilhão do Brasil na Bienal de Veneza 2018)
+
+Marcelo Maia Rosa é arquiteto e sócio do escritório Andrade Morettin Arquitetos Associados (2007), vencedor do concurso para nova sede do IMPA-RJ (2015). Marcelo foi responsável pela coordenação do novo museu do Instituto Moreira Salles (2017), em São Paulo. É graduado em arquitetura e urbanismo pela Universidade Mackenzie em São Paulo e TU/e, Eindhoven Holanda (2005), com cursos complementares pela Université Paris Sorbonne (2012) e pós graduado pela Escola da Cidade (2017), onde é professor atualmente. Em 2015, foi curador do Global Shapers Community Hub São Paulo, iniciativa do World Economic Forum.
+
+Sol Camacho é arquiteta pela Universidade Iberoamericana da Cidade do México e Paris Val de Seine (2004), e mestre em Arquitetura e Urbanismo pela Universidade Harvard (2008). Fundou o escritório RADDAR em São Paulo em 2011, onde desenvolve projetos baseados no entorno urbano. Recebeu o Premio Lafarge Holcim Awards (2017) pelo projeto PIPA – Conjunto cultural e comercial em Paraisópolis, onde mantém uma sede do RADDAR desenvolvendo pesquisas sobre o entorno. Entre outros reconhecimentos, Sol foi candidata ao Rolex Mentor and Protege Arts Initiative (2016) e recebeu duas vezes a bolsa de Pesquisa FONCA (2012, 2014). Atualmente, Sol também é diretora Cultural do Instituto Bardi / Casa de Vidro.
 
 Chiara Scotoni é estudante na Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo (FAU-USP). Em 2016, trabalhou como estagiária no Departamento de Urbanismo (Secretaria Municipal de Desenvolvimento Urbano) durante a elaboração e publicação dos Planos Regionais das Subprefeituras. Fez parte da equipe curatorial do Pavilhão do Brasil na Bienal de Arquitetura de Veneza de 2018, contribuindo para a pesquisa e desenvolvimento das peças gráficas da exposição “Muros de Ar”. Atualmente, trabalha no Instituto Cordial em iniciativas para o estreitamento das relações urbanas através da inteligência socioterritorial.
 
